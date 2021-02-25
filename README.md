@@ -1,3 +1,5 @@
 # Tokyo
 test
-covfefe
+coffee
+capuccino
+latte macchiato, or lait russe
